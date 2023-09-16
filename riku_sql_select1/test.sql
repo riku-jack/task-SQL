@@ -1,0 +1,1 @@
+SELECT category_name, category_code FROM db_sample.categories;

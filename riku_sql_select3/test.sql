@@ -1,0 +1,1 @@
+SELECT category_code, COUNT(category_code) FROM db_sample.items GROUP BY category_code;
